@@ -1,0 +1,7 @@
+/vendor
+/.env
+/storage/logs/*.log
+/storage/framework/*/*
+/database/*.sqlite
+/.phpunit.cache
+!/storage/framework/*/.gitkeep

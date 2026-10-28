@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-10-28T10:00:00+03:00</generation-date>
+
+  <offer internal-id="A-1001">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://example.test/offers/A-1001</url>
+    <creation-date>2026-10-01T09:00:00+03:00</creation-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <locality-name>Москва</locality-name>
+      <address>ул. Тверская, 10</address>
+    </location>
+    <price><value>12500000</value><currency>RUR</currency></price>
+    <area><value>54.3</value><unit>кв.м</unit></area>
+    <rooms>2</rooms>
+    <floor>7</floor>
+    <floors-total>16</floors-total>
+    <description>Светлая двухкомнатная квартира рядом с метро.</description>
+    <image>https://example.test/photos/A-1001-1.jpg</image>
+    <image>https://example.test/photos/A-1001-2.jpg</image>
+  </offer>
+
+  <offer internal-id="A-1001">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://example.test/offers/A-1001</url>
+    <creation-date>2026-10-01T09:00:00+03:00</creation-date>
+    <last-update-date>2026-10-20T12:00:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <locality-name>Москва</locality-name>
+      <address>ул. Тверская, 10</address>
+    </location>
+    <price><value>11900000</value><currency>RUR</currency></price>
+    <area><value>54.3</value><unit>кв.м</unit></area>
+    <rooms>2</rooms>
+    <floor>7</floor>
+    <floors-total>16</floors-total>
+    <description>Светлая двухкомнатная квартира рядом с метро. Снижена цена!</description>
+    <image>https://example.test/photos/A-1001-1.jpg</image>
+  </offer>
+
+  <offer internal-id="A-1002">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location><locality-name>Москва</locality-name><address>ул. Арбат, 5</address></location>
+    <area><value>38</value><unit>кв.м</unit></area>
+    <rooms>1</rooms>
+    <description>Цена по запросу.</description>
+  </offer>
+
+  <offer internal-id="A-1003">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location><locality-name>Сочи</locality-name><address>ул. Навагинская, 3</address></location>
+    <price><value>150000</value><currency>USD</currency></price>
+    <area><value>41.5</value><unit>кв.м</unit></area>
+    <rooms>1</rooms>
+    <description>Квартира у моря.</description>
+  </offer>
+
+  <offer internal-id="A-1004">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>дом</category>
+    <location><locality-name>Казань</locality-name><address>пос. Новый, 12</address></location>
+    <price><value>8700000</value><currency>RUR</currency></price>
+    <area><value>120</value><unit>кв.м</unit></area>
+    <lot-area><value>6</value><unit>сот</unit></lot-area>
+    <description>Дом с участком.</description>
+    <image>https://example.invalid/photos/not-found.jpg</image>
+    <image>https://example.test/photos/A-1004-2.jpg</image>
+  </offer>
+
+  <offer internal-id="A-1005">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location><locality-name>Екатеринбург</locality-name><address>ул. Ленина, 25</address></location>
+    <price><value>7 450 000,00</value><currency>RUR</currency></price>
+    <area><value>62,5</value><unit>кв.м</unit></area>
+    <rooms>3</rooms>
+    <description>Цена и площадь с пробелами и запятой.</description>
+  </offer>
+
+  <offer internal-id="A-1006">
+    <type>аренда</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location><locality-name>Санкт-Петербург</locality-name><address>Невский пр., 100</address></location>
+    <price><value>55000</value><currency>RUR</currency><period>месяц</period></price>
+    <area><value>45</value><unit>кв.м</unit></area>
+    <rooms>2</rooms>
+    <description>Сдаётся на длительный срок.</description>
+  </offer>
+
+  <offer internal-id="A-1007">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location><locality-name>Москва</locality-name><address>ул. «Остоженка», д. 1/2 &amp; к. 3</address></location>
+    <price><value>31000000</value><currency>RUR</currency></price>
+    <area><value>88</value><unit>кв.м</unit></area>
+    <rooms>3</rooms>
+    <description><![CDATA[<b>Премиум</b> 🏠 "с видом" & ремонтом <script>alert(1)</script>]]></description>
+  </offer>
+
+  <offer internal-id="A-1008">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location><locality-name>Тула</locality-name><address>ул. Мира, 7</address></location>
+    <price><value>3200000</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <description>Нет площади.</description>
+  </offer>
+
+  <offer internal-id="A-1009">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location><locality-name>Самара</locality-name><address>ул. Московское ш., 1</address></location>
+    <price><value>4100000</value><currency>RUR</currency></price>
+    <area><value>47</value><unit>кв.м</unit></area>
+    <rooms>2</rooms>
+    <description>Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание. Очень длинное описание.</description>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location><locality-name>Омск</locality-name><address>ул. Ленина, 1</address></location>
+    <price><value>2900000</value><currency>RUR</currency></price>
+    <area><value>40</value><unit>кв.м</unit></area>
+    <description>Без внутреннего идентификатора.</description>
+  </offer>
+
+  <offer internal-id="A-1010">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location><locality-name>Пермь</locality-name><address>ул. Попова, 9</address></location>
+    <price><value>-100</value><currency>RUR</currency></price>
+    <area><value>35</value><unit>кв.м</unit></area>
+    <description>Отрицательная цена.</description>
+  </offer>
+</realty-feed>
